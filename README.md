@@ -1,8 +1,4 @@
-#mon premier projet
+#mon premier projet 
 
-
-
-
-
-
+$$\bar(x)=\frac{7}$$
 #yuii
